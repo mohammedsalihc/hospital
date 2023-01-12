@@ -1,0 +1,27 @@
+<div className="cont">
+        <div className="form">
+          <div className="ehh">
+            <label htmlFor="name">NAME</label>
+            <br />
+            <input type="text" placeholder="Enter your name here" />
+            <br />
+            <label htmlFor="place">PLACE</label>
+            <br />
+            <input type="text" placeholder="Enter your place here" />
+            <br />
+            <label htmlFor="age">AGE</label>
+            <br />
+            <input type="number" placeholder="Age" />
+            <br />
+            <label htmlFor="phone">NUMBER</label>
+            <br />
+            <input type="text" placeholder="Enter your phone number" />
+            <br />
+          </div>
+          <div className="btn">
+            <Button variant="outline-secondary" id="button-addon2">
+              Submit
+            </Button>
+          </div>
+        </div>
+      </div>
